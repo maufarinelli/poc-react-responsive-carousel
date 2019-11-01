@@ -15,7 +15,7 @@ Based on [https://www.w3.org/WAI/tutorials/carousels/](https://www.w3.org/WAI/tu
 
 ### Structure
 
-- [ ] a collection of content items, carousels are typically best represented as unordered lists, using <ul> and <li>.
+- [ ] a collection of content items, carousels are typically best represented as unordered lists, using `<ul>` and `<li>`
 - [ ] should be enclosed in a labeled region
 - [ ] carousel items can be any content
 
